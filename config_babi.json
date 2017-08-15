@@ -1,0 +1,20 @@
+{
+  "TASK": "babixyz",
+  "task_no": "qa1",
+  "supporting_facts_only": false,
+  "caps": false,
+  "hierarchical": false,
+  "seq2seq_model": "attention",
+  "dropout": 0.4,
+  "char_embedding_size": 150,
+  "conv_nfilters": [],
+  "query_lstm_dims": [150],
+  "hierarchical_lstm_dims": [],
+  "hidden_dim": 300,
+  "encoder_depth": 1,
+  "decoder_depth": 1,
+  "learning_rate": 0.002,
+  "ten_k": true,
+  "limit_stories_chars": 250,
+  "minibatch_size": 32
+}

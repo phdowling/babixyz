@@ -1,0 +1,4 @@
+theano
+keras==1.2
+git+git://github.com/farizrahman4u/seq2seq@223fbfdda183c2dddabb69ad0ad74bf9def69981
+git+git://github.com/farizrahman4u/recurrentshop@ea67f41600b51bc8719286ae88a568be1e85956a
